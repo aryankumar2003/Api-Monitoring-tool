@@ -120,6 +120,3 @@ To add custom metrics:
 2. Update the middleware or specific endpoints to record these metrics
 3. Adjust your Grafana dashboard to visualize the new metrics
 
-## License
-
-[MIT License](LICENSE)
